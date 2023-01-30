@@ -1,9 +1,0 @@
-numpy
-pandas
-joblib
-sklearn
-seaborn
-tensorflow
-keras
-matplotlib
-statsmodels
