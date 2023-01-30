@@ -13,7 +13,7 @@ additonal economic variables.
 
 Raw datasets can be found inside the directory [Year data P](Year data P).
 Each country inside its own directory.
-Originally downloaded from pennworld [ADD A LINK HERE]()
+Originally downloaded from pennworld [ADD A LINK HERE](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)
 
 ## Baseline Models
 
